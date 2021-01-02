@@ -15,7 +15,6 @@
 
 *** Photography                                               :photography:
 
-**** [[https://fujifilm-blog.com/rss ][The Fujifilm Blog]]
 **** [[https://fujilove.com/category/inspiration/rss][Fujilove Magazine]]
 **** [[https://jonasraskphotography.com/feed/][Jonas Rask | photography]]
 **** [[http://feeds.feedburner.com/GetUpAndShoot-SeanTuckerPhotography][Get Up and Shoot - Sean Tucker Photography]]
@@ -27,7 +26,6 @@
 **** [[https://increment.com/feed.xml][Increment Magazine]]
 **** [[https://jvns.ca/atom.xml][Julia Evans]]
 **** [[http://wingolog.org/feed/atom][wingolog]]
-**** [[https://eklitzke.org/index.rss][eklitzke]]
 **** [[https://lwn.net/headlines/rss][LWN]]
 **** [[http://martinfowler.com/bliki/bliki.atom][Martin Fowler]]
 **** [[http://windytan.blogspot.com/feeds/posts/default][absorptions]]
@@ -43,7 +41,7 @@
 
 *** Emacs                                                           :emacs:
 
-**** [[http://planet.emacsen.org/atom.xml][Planet Emacsen]]
+**** [[https://planet.emacslife.com/atom.xml][Planet Emacslife]]
 **** [[http://sachachua.com/blog/feed/][sacha chua :: living an awesome life]]
 **** [[https://emacsformacosx.com/atom/release][Emacs For Mac OS X: Releases]]
 **** [[https://oremacs.com/atom.xml][(or emacs]]
