@@ -1,48 +1,76 @@
-https://www.youtube.com/feeds/videos.xml?channel_id=UCUHW94eEFW7hkUMVaZz4eDg "YouTube" "math-physics"
-https://www.youtube.com/feeds/videos.xml?channel_id=UCYO_jab_esuFRV4b17AJtAw "YouTube" "math-physics"
-https://www.youtube.com/feeds/videos.xml?channel_id=UCijjo5gfAscWgNCKFHWm1EA "YouTube" "computers"
-https://www.youtube.com/feeds/videos.xml?channel_id=UCxkMDXQ5qzYOgXPRnOBrp1w "YouTube" "emacs"
-https://fujifilm-blog.com/rss "photography"
-https://fujilove.com/category/inspiration/rss "photography"
-https://jonasraskphotography.com/feed/ "photography"
-http://feeds.feedburner.com/GetUpAndShoot-SeanTuckerPhotography "photography"
-http://feeds.feedburner.com/github/ICyq "computers" "engineering" "companies"
-http://feeds.feedburner.com/gitlab/jeJn "computers" "engineering" "companies"
-https://increment.com/feed.xml "computers" "magazine"
-http://planet.emacsen.org/atom.xml "computers" "emacs"
-http://sachachua.com/blog/feed/ "computers" "emacs"
-https://www.ruby-lang.org/en/feeds/news.rss "computers" "ruby"
-https://jvns.ca/atom.xml "computers"
-http://wingolog.org/feed/atom "computers"
-http://manishearth.github.io/atom.xml "computers"
-http://third-bit.com/feed.xml "computers"
-https://blog.plover.com/index.atom "computers"
-http://composition.al/atom.xml "computers"
-https://eklitzke.org/index.rss "computers"
-https://lwn.net/headlines/rss "computers"
-http://martinfowler.com/bliki/bliki.atom "computers"
-http://windytan.blogspot.com/feeds/posts/default "computers" "finland"
-https://akomljen.com/rss/ "computers" "kubernetes"
-https://medium.com/feed/@rakyll/ "computers" "go"
-http://feeds.feedburner.com/steveklabnik/words "computers" "rust"
-http://feeds.feedburner.com/ingebrigtsen/WYjk "computers" "emacs"
-https://www.islekdemir.com/index.rss "computers" "friends"
-https://www.reddit.com/r/coding/.rss "reddit" "coding"
-https://www.reddit.com/r/Finland/.rss "reddit" "Finland" "news"
-https://www.reddit.com/r/ruby/.rss "reddit" "ruby"
-https://www.reddit.com/r/linux/.rss "reddit" "linux"
-https://www.reddit.com/r/golang/.rss "reddit" "golang"
-https://golangcode.com/index.xml "computers" "golang"
-https://www.leftvoice.org/feed "anarchism"
-https://emacsformacosx.com/atom/release "emacs" "computers"
-https://dev.solita.fi/rss.xml "computers" "Finland" "engineering" "company"
-https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET "Finland" "news"
-https://feeds.yle.fi/uutiset/v1/majorHeadlines/YLE_UUTISET.rss "Finland" "news"
-http://tenderlovemaking.com/atom.xml "ruby"
-https://lobste.rs/rss "computers" "coding"
-https://zverok.github.io/feed.xml "computers" "ruby"
-https://www.honeybadger.io/blog/feed.xml "computers"
-https://manuel.is/posts/index.xml "manuel"
-https://darkball.net/fingerpori/ "humor"
-https://oremacs.com/atom.xml "computers" "emacs"
-https://tracker.debian.org/pkg/linux/rss "computers" "linux" "debian"
+* All                                                                :elfeed:
+
+** Videos                                                          :youtube:
+
+*** Math-physics                                             :math:physics:
+
+**** [[https://www.youtube.com/feeds/videos.xml?channel_id=UCUHW94eEFW7hkUMVaZz4eDg][Minutephysics]]
+**** [[https://www.youtube.com/feeds/videos.xml?channel_id=UCYO_jab_esuFRV4b17AJtAw][3Blue1Brown]]
+
+*** [[https://www.youtube.com/feeds/videos.xml?channel_id=UCijjo5gfAscWgNCKFHWm1EA][Mozilla Hacks]]                                                 :mozilla:
+*** [[https://www.youtube.com/feeds/videos.xml?channel_id=UCxkMDXQ5qzYOgXPRnOBrp1w][Mike Zamansky]]                                                   :emacs:
+
+
+** Blogs                                                             :blogs:
+
+*** Photography                                               :photography:
+
+**** [[https://fujifilm-blog.com/rss ][The Fujifilm Blog]]
+**** [[https://fujilove.com/category/inspiration/rss][Fujilove Magazine]]
+**** [[https://jonasraskphotography.com/feed/][Jonas Rask | photography]]
+**** [[http://feeds.feedburner.com/GetUpAndShoot-SeanTuckerPhotography][Get Up and Shoot - Sean Tucker Photography]]
+
+*** Computer engineering                                      :engineering:
+
+**** [[http://feeds.feedburner.com/github/ICyq][The GitHub Blog]]
+**** [[http://feeds.feedburner.com/gitlab/jeJn][Gitlab Blog]]
+**** [[https://increment.com/feed.xml][Increment Magazine]]
+**** [[https://jvns.ca/atom.xml][Julia Evans]]
+**** [[http://wingolog.org/feed/atom][wingolog]]
+**** [[https://eklitzke.org/index.rss][eklitzke]]
+**** [[https://lwn.net/headlines/rss][LWN]]
+**** [[http://martinfowler.com/bliki/bliki.atom][Martin Fowler]]
+**** [[http://windytan.blogspot.com/feeds/posts/default][absorptions]]
+**** [[https://akomljen.com/rss/][Alen Komljen]]
+**** [[https://medium.com/feed/@rakyll/][Stories by Jaana Dogan on Medium]]
+**** [[http://feeds.feedburner.com/steveklabnik/words][Steve Klabnik]]
+**** [[http://feeds.feedburner.com/ingebrigtsen/WYjk][Random Thoughts]]
+**** [[https://dev.solita.fi/rss.xml][/dev/solita]]
+**** [[https://www.honeybadger.io/blog/feed.xml][Honeybadger Developer Blog]]
+**** [[https://www.reddit.com/r/coding/.rss][/r/coding]]                                                    :reddit:
+**** [[https://www.reddit.com/r/linux/.rss][/r/linux]]                                                     :reddit:
+**** [[https://lobste.rs/rss][Lobsters]]                                                     :reddit:
+
+*** Emacs                                                           :emacs:
+
+**** [[http://planet.emacsen.org/atom.xml][Planet Emacsen]]
+**** [[http://sachachua.com/blog/feed/][sacha chua :: living an awesome life]]
+**** [[https://emacsformacosx.com/atom/release][Emacs For Mac OS X: Releases]]
+**** [[https://oremacs.com/atom.xml][(or emacs]]
+
+*** Languages                                                   :languages:
+
+**** [[https://www.ruby-lang.org/en/feeds/news.rss][Ruby News]]
+**** [[https://blog.golang.org/feed.atom?format=xml][The Go Blog]]
+**** [[https://golangcode.com/index.xml][Golang Code]]
+**** [[http://tenderlovemaking.com/atom.xml][Tender Lovemaking]]
+**** [[https://zverok.github.io/feed.xml][zverok with Ruby]]
+**** [[https://www.reddit.com/r/ruby/.rss][/r/ruby]]                                                      :reddit:
+**** [[https://www.reddit.com/r/golang/.rss][/r/golang]]                                                    :reddit:
+
+*** Friends                                                       :friends:
+
+**** [[https://www.islekdemir.com/index.rss][Sinan Islekdemir]]
+
+*** AK                                                                 :ak:
+
+**** [[https://www.leftvoice.org/feed][Left Voice]]
+
+*** News                                                             :news:
+
+**** [[https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET][Yle Uutiset | Tuoreimmat uutiset]]
+
+*** LOLlero                                                           :lol:
+
+**** [[https://darkball.net/fingerpori/][Fingerpori RSS]]
+

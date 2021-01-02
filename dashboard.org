@@ -11,9 +11,9 @@
  [u] Unread      ([[elfeed:+unread][   688]]/[[elfeed:][  7882]])
  [e] Emacs       ([[elfeed:+unread +emacs][     1]]/[[elfeed:+emacs][  3634]])
  [b] Blogs       ([[elfeed:+unread +blog][   506]]/[[elfeed:+blog][------]])
- [m] Monitoring  ([[elfeed:+unread +monitoring][     0]]/[[elfeed:+monitoring][------]])
+ [c] Computers   ([[elfeed:+unread +monitoring][     0]]/[[elfeed:+engineering][------]])
  [n] News        ([[elfeed:+unread +news][    70]]/[[elfeed:+news][------]])
- [v] Video       ([[elfeed:+unread +video][    10]]/[[elfeed:+video][------]])
+ [v] Videos      ([[elfeed:+unread +video][    10]]/[[elfeed:+video][------]])
 
 * Configuration
   :PROPERTIES:
@@ -26,9 +26,9 @@
   #+KEYMAP: u | elfeed-dashboard-query "+unread"
   #+KEYMAP: e | elfeed-dashboard-query "+unread +emacs"
   #+KEYMAP: b | elfeed-dashboard-query "+unread +blogs"
-  #+KEYMAP: m | elfeed-dashboard-query "+unread +monitoring"
-  #+KEYMAP: v | elfeed-dashboard-query "+unread +video"
+  #+KEYMAP: v | elfeed-dashboard-query "+unread +videos"
   #+KEYMAP: n | elfeed-dashboard-query "+unread +news"
+  #+KEYMAP: c | elfeed-dashboard-query "+unread +engineering"
   #+KEYMAP: s | elfeed
   #+KEYMAP: g | elfeed-dashboard-update-links
   #+KEYMAP: U | elfeed-dashboard-update
