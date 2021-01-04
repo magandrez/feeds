@@ -59,6 +59,7 @@
 *** Friends                                                       :friends:
 
 **** [[https://www.islekdemir.com/index.rss][Sinan Islekdemir]]
+**** [[https://www.islekdemir.com/pics.rss][Sinan's Photo Album]]
 
 *** AK                                                                 :ak:
 
