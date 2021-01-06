@@ -35,6 +35,7 @@
 **** [[http://feeds.feedburner.com/ingebrigtsen/WYjk][Random Thoughts]]
 **** [[https://dev.solita.fi/rss.xml][/dev/solita]]
 **** [[https://www.honeybadger.io/blog/feed.xml][Honeybadger Developer Blog]]
+**** [[https://karl-voit.at/feeds/lazyblorg-all.atom_1.0.links-and-content.xml][public voit]]
 **** [[https://www.reddit.com/r/coding/.rss][/r/coding]]                                                    :reddit:
 **** [[https://www.reddit.com/r/linux/.rss][/r/linux]]                                                     :reddit:
 **** [[https://lobste.rs/rss][Lobsters]]                                                     :reddit:
