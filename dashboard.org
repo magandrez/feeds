@@ -32,7 +32,7 @@
   #+KEYMAP: u | elfeed-dashboard-query "+unread"
   #+KEYMAP: n | elfeed-dashboard-query "+unread +news"
   #+KEYMAP: h | elfeed-dashboard-query "+unread +lol"
-  #+KEYMAP: v | elfeed-dashboard-query "+unread +videos"
+  #+KEYMAP: v | elfeed-dashboard-query "+unread +youtube"
   #+KEYMAP: e | elfeed-dashboard-query "+unread +emacs"
   #+KEYMAP: p | elfeed-dashboard-query "+unread +photography"
   #+KEYMAP: l | elfeed-dashboard-query "+unread +languages"
