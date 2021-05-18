@@ -76,6 +76,11 @@
 **** [[https://darkball.net/fingerpori/][Fingerpori RSS]]
 **** [[https://xkcd.com/atom.xml][xkcd]]
 
+
 *** Linnaeus                                                  :engineering:
 
 **** [[https://recology.info/feed.xml][Recology]]
+
+*** Books                                                           :books:
+
+**** [[https://www.theguardian.com/books/books+tone/reviews/rss][The Guardian Book Review]]
