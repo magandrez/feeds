@@ -19,6 +19,7 @@
  [c] Engineering      ([[elfeed:+unread +engineering][     0]]/[[elfeed:+engineering][   320]])
  [f] Friends          ([[elfeed:+unread +friends][     0]]/[[elfeed:+friends][     3]])
  [r] Reddit           ([[elfeed:+unread +reddit][     0]]/[[elfeed:+reddit][   132]])
+ [b] Books            ([[elfeed:+unread +books][     0]]/[[elfeed:+books][_____0]])
 
 
 * Configuration
@@ -40,6 +41,7 @@
   #+KEYMAP: c | elfeed-dashboard-query "+unread +engineering"
   #+KEYMAP: f | elfeed-dashboard-query "+unread +friends"
   #+KEYMAP: r | elfeed-dashboard-query "+unread +reddit"
+  #+KEYMAP: b | elfeed-dashboard-query "+unread +books"
   #+KEYMAP: s | elfeed
   #+KEYMAP: g | elfeed-dashboard-update-links
   #+KEYMAP: U | elfeed-dashboard-update
