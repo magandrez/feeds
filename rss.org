@@ -37,6 +37,7 @@
 **** [[https://www.honeybadger.io/blog/feed.xml][Honeybadger Developer Blog]]
 **** [[https://karl-voit.at/feeds/lazyblorg-all.atom_1.0.links-and-teaser.xml][public voit]]
 **** [[https://githubengineering.com/atom.xml][Github Engineering]]
+**** [[https://www.fredrikholmqvist.com/posts/][Fredrik Holmqvist]]
 **** [[https://www.reddit.com/r/coding/.rss][/r/coding]]                                                    :reddit:
 **** [[https://www.reddit.com/r/linux/.rss][/r/linux]]                                                     :reddit:
 **** [[https://lobste.rs/rss][Lobsters]]                                                     :reddit:
