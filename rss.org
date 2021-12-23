@@ -1,5 +1,8 @@
 * All                                                                :elfeed:
 
+** Own                                                                 :own:
+**** [[https://manuel.is/posts/index.xml][manuel.is]]
+
 ** Videos                                                          :youtube:
 
 *** Math-physics                                             :math:physics:
@@ -26,7 +29,6 @@
 **** [[https://increment.com/feed.xml][Increment Magazine]]
 **** [[https://jvns.ca/atom.xml][Julia Evans]]
 **** [[http://wingolog.org/feed/atom][wingolog]]
-**** [[https://lwn.net/headlines/rss][LWN]]
 **** [[http://martinfowler.com/bliki/bliki.atom][Martin Fowler]]
 **** [[http://windytan.blogspot.com/feeds/posts/default][absorptions]]
 **** [[https://akomljen.com/rss/][Alen Komljen]]
@@ -38,9 +40,8 @@
 **** [[https://karl-voit.at/feeds/lazyblorg-all.atom_1.0.links-and-teaser.xml][public voit]]
 **** [[https://githubengineering.com/atom.xml][Github Engineering]]
 **** [[https://www.fredrikholmqvist.com/posts/index.xml][Fredrik Holmqvist]]
-**** [[https://www.reddit.com/r/coding/.rss][/r/coding]]                                                    :reddit:
-**** [[https://www.reddit.com/r/linux/.rss][/r/linux]]                                                     :reddit:
-**** [[https://lobste.rs/rss][Lobsters]]                                                     :reddit:
+**** [[https://www.kyberturvallisuuskeskus.fi/feed/rss/fi/400][TRAFICOM Vulnerabilities]]
+**** [[https://www.kyberturvallisuuskeskus.fi/feed/rss/fi/401][TRAFICOM Alerts]]
 
 *** Emacs                                                           :emacs:
 
@@ -56,8 +57,6 @@
 **** [[https://golangcode.com/index.xml][Golang Code]]
 **** [[http://tenderlovemaking.com/atom.xml][Tender Lovemaking]]
 **** [[https://zverok.github.io/feed.xml][zverok with Ruby]]
-**** [[https://www.reddit.com/r/ruby/.rss][/r/ruby]]                                                      :reddit:
-**** [[https://www.reddit.com/r/golang/.rss][/r/golang]]                                                    :reddit:
 
 *** Friends                                                       :friends:
 
