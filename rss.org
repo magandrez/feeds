@@ -42,6 +42,7 @@
 **** [[https://www.fredrikholmqvist.com/posts/index.xml][Fredrik Holmqvist]]
 **** [[https://www.kyberturvallisuuskeskus.fi/feed/rss/fi/400][TRAFICOM Vulnerabilities]]
 **** [[https://www.kyberturvallisuuskeskus.fi/feed/rss/fi/401][TRAFICOM Alerts]]
+**** [[https://web3isgoinggreat.com/feed.xml][Web3 is going just great]]
 
 *** Emacs                                                           :emacs:
 
