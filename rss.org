@@ -5,14 +5,8 @@
 
 ** Videos                                                          :youtube:
 
-*** Math-physics                                             :math:physics:
-
-**** [[https://www.youtube.com/feeds/videos.xml?channel_id=UCUHW94eEFW7hkUMVaZz4eDg][Minutephysics]]
-**** [[https://www.youtube.com/feeds/videos.xml?channel_id=UCYO_jab_esuFRV4b17AJtAw][3Blue1Brown]]
-
 *** [[https://www.youtube.com/feeds/videos.xml?channel_id=UCijjo5gfAscWgNCKFHWm1EA][Mozilla Hacks]]                                                 :mozilla:
 *** [[https://www.youtube.com/feeds/videos.xml?channel_id=UCxkMDXQ5qzYOgXPRnOBrp1w][Mike Zamansky]]                                                   :emacs:
-
 
 ** Blogs                                                             :blogs:
 
@@ -42,7 +36,16 @@
 **** [[https://www.fredrikholmqvist.com/posts/index.xml][Fredrik Holmqvist]]
 **** [[https://www.kyberturvallisuuskeskus.fi/feed/rss/fi/400][TRAFICOM Vulnerabilities]]
 **** [[https://www.kyberturvallisuuskeskus.fi/feed/rss/fi/401][TRAFICOM Alerts]]
+
+*** Climate (evil)                                                :climate:
+
+**** [[https://www.ieta.org/page-18192][IETA's press releases]]
+
+
+*** Crypto-BS                                                      :crypto:
+
 **** [[https://web3isgoinggreat.com/feed.xml][Web3 is going just great]]
+**** [[https://www.blockchainforclimate.org/news?format=rss][Blockchain for Climate (yeah...)]]
 
 *** Emacs                                                           :emacs:
 
@@ -61,12 +64,13 @@
 
 *** Friends                                                       :friends:
 
-**** [[https://www.islekdemir.com/index.rss][Sinan Islekdemir]]
+**** [[https://www.16x4.com/rss/][Sinan's blog]]
 **** [[https://www.islekdemir.com/pics.rss][Sinan's Photo Album]]
 
 *** AK                                                                 :ak:
-
 **** [[https://www.leftvoice.org/feed][Left Voice]]
+**** [[https://thecharnelhouse.org/rss][The Charnel House]]
+**** [[http://insurgentnotes.com/feed][Insurgent Notes]]
 
 *** News                                                             :news:
 
@@ -77,10 +81,6 @@
 **** [[https://darkball.net/fingerpori/][Fingerpori RSS]]
 **** [[https://xkcd.com/atom.xml][xkcd]]
 
-
-*** Linnaeus                                                  :engineering:
-
-**** [[https://recology.info/feed.xml][Recology]]
 
 *** Books                                                           :books:
 
