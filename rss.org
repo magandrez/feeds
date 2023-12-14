@@ -28,7 +28,6 @@
 **** [[https://akomljen.com/rss/][Alen Komljen]]
 **** [[https://medium.com/feed/@rakyll/][Stories by Jaana Dogan on Medium]]
 **** [[http://feeds.feedburner.com/steveklabnik/words][Steve Klabnik]]
-**** [[http://feeds.feedburner.com/ingebrigtsen/WYjk][Random Thoughts]]
 **** [[https://dev.solita.fi/rss.xml][/dev/solita]]
 **** [[https://www.honeybadger.io/blog/feed.xml][Honeybadger Developer Blog]]
 **** [[https://karl-voit.at/feeds/lazyblorg-all.atom_1.0.links-and-teaser.xml][public voit]]
@@ -37,35 +36,22 @@
 **** [[https://www.kyberturvallisuuskeskus.fi/feed/rss/fi/400][TRAFICOM Vulnerabilities]]
 **** [[https://www.kyberturvallisuuskeskus.fi/feed/rss/fi/401][TRAFICOM Alerts]]
 
-*** Climate (evil)                                                :climate:
+*** Indieweb                                                     :indieweb:
 
-**** [[https://www.ieta.org/page-18192][IETA's press releases]]
-
-
-*** Crypto-BS                                                      :crypto:
-
-**** [[https://web3isgoinggreat.com/feed.xml][Web3 is going just great]]
-**** [[https://www.blockchainforclimate.org/news?format=rss][Blockchain for Climate (yeah...)]]
+**** [[https://www.jvt.me/kind/articles/feed.xml][Jamie Tanna's Blog]]
 
 *** Emacs                                                           :emacs:
 
 **** [[https://planet.emacslife.com/atom.xml][Planet Emacslife]]
 **** [[http://sachachua.com/blog/feed/][sacha chua :: living an awesome life]]
-**** [[https://emacsformacosx.com/atom/release][Emacs For Mac OS X: Releases]]
 **** [[https://oremacs.com/atom.xml][(or emacs]]
 
 *** Languages                                                   :languages:
 
 **** [[https://www.ruby-lang.org/en/feeds/news.rss][Ruby News]]
 **** [[https://blog.golang.org/feed.atom?format=xml][The Go Blog]]
-**** [[https://golangcode.com/index.xml][Golang Code]]
 **** [[http://tenderlovemaking.com/atom.xml][Tender Lovemaking]]
 **** [[https://zverok.github.io/feed.xml][zverok with Ruby]]
-
-*** Friends                                                       :friends:
-
-**** [[https://www.16x4.com/rss/][Sinan's blog]]
-**** [[https://www.islekdemir.com/pics.rss][Sinan's Photo Album]]
 
 *** AK                                                                 :ak:
 **** [[https://www.leftvoice.org/feed][Left Voice]]
@@ -80,7 +66,6 @@
 
 **** [[https://darkball.net/fingerpori/][Fingerpori RSS]]
 **** [[https://xkcd.com/atom.xml][xkcd]]
-
 
 *** Books                                                           :books:
 
