@@ -8,20 +8,18 @@
 
 * Bookmarks
 
- [u] Unread           ([[elfeed:+unread][    46]]/[[elfeed:][ 10737]])
- [n] News             ([[elfeed:+unread +news][     3]]/[[elfeed:+news][  1654]])
- [h] LOLlero          ([[elfeed:+unread +lol][     0]]/[[elfeed:+lol][   413]])
- [v] Videos           ([[elfeed:+unread +youtube][     0]]/[[elfeed:+youtube][    94]])
- [e] Emacs            ([[elfeed:+unread +emacs][    39]]/[[elfeed:+emacs][  1270]])
- [p] Photography      ([[elfeed:+unread +photography][     0]]/[[elfeed:+photography][   132]])
- [l] Languages        ([[elfeed:+unread +languages][     2]]/[[elfeed:+languages][  1647]])
- [t] Climate          ([[elfeed:+unread +climate][     0]]/[[elfeed:+languages][     0]])
- [x] Crypto-bros      ([[elfeed:+unread +crypto][     0]]/[[elfeed:+crypto][     0]])
- [a] Politics         ([[elfeed:+unread +ak][     0]]/[[elfeed:+ak][   731]])
- [c] Engineering      ([[elfeed:+unread +engineering][     2]]/[[elfeed:+engineering][  4102]])
- [f] Friends          ([[elfeed:+unread +friends][     0]]/[[elfeed:+friends][   174]])
- [b] Books            ([[elfeed:+unread +books][     0]]/[[elfeed:+books][   532]])
- [o] Own              ([[elfeed:+unread +own][     0]]/[[elfeed:+unread +own][     0]])
+ [u] Unread           ([[elfeed:+unread][1245]]/[[elfeed:][1377]])
+ [n] News             ([[elfeed:+unread +news][30]]/[[elfeed:+news][30]])
+ [h] LOLlero          ([[elfeed:+unread +lol][19]]/[[elfeed:+lol][19]])
+ [v] Videos           ([[elfeed:+unread +youtube][30]]/[[elfeed:+youtube][30]])
+ [e] Emacs            ([[elfeed:+unread +emacs][245]]/[[elfeed:+emacs][245]])
+ [p] Photography      ([[elfeed:+unread +photography][42]]/[[elfeed:+photography][42]])
+ [l] Languages        ([[elfeed:+unread +languages][45]]/[[elfeed:+languages][45]])
+ [a] Politics         ([[elfeed:+unread +ak][347]]/[[elfeed:+ak][347]])
+ [c] Engineering      ([[elfeed:+unread +engineering][447]]/[[elfeed:+engineering][447]])
+ [i] Indieweb         ([[elfeed:+unread +indieweb][0]]/[[elfeed:+indieweb][+]])
+ [b] Books            ([[elfeed:+unread +books][0]]/[[elfeed:+books][20]])
+ [o] Own              ([[elfeed:+unread +own][0]]/[[elfeed:+own][+]])
 
 
 * Configuration
@@ -39,11 +37,9 @@
   #+KEYMAP: e | elfeed-dashboard-query "+unread +emacs"
   #+KEYMAP: p | elfeed-dashboard-query "+unread +photography"
   #+KEYMAP: l | elfeed-dashboard-query "+unread +languages"
-  #+KEYMAP: t | elfeed-dashboard-query "+unread +climate"
-  #+KEYMAP: x | elfeed-dashboard-query "+unread +crypto"
   #+KEYMAP: a | elfeed-dashboard-query "+unread +ak"
   #+KEYMAP: c | elfeed-dashboard-query "+unread +engineering"
-  #+KEYMAP: f | elfeed-dashboard-query "+unread +friends"
+  #+KEYMAP: i | elfeed-dashboard-query "+unread +indieweb"
   #+KEYMAP: b | elfeed-dashboard-query "+unread +books"
   #+KEYMAP: o | elfeed-dashboard-query "+unread +own"
   #+KEYMAP: s | elfeed
