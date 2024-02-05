@@ -12,7 +12,6 @@
 
 *** Photography                                               :photography:
 
-**** [[https://fujilove.com/category/inspiration/rss][Fujilove Magazine]]
 **** [[https://jonasraskphotography.com/feed/][Jonas Rask | photography]]
 **** [[http://feeds.feedburner.com/GetUpAndShoot-SeanTuckerPhotography][Get Up and Shoot - Sean Tucker Photography]]
 
