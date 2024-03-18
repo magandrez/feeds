@@ -34,6 +34,7 @@
 **** [[https://www.fredrikholmqvist.com/posts/index.xml][Fredrik Holmqvist]]
 **** [[https://www.kyberturvallisuuskeskus.fi/feed/rss/fi/400][TRAFICOM Vulnerabilities]]
 **** [[https://www.kyberturvallisuuskeskus.fi/feed/rss/fi/401][TRAFICOM Alerts]]
+**** [[https://liw.fi][Lars Wirzenius]]
 
 *** Emacs                                                           :emacs:
 
@@ -49,6 +50,7 @@
 **** [[https://zverok.github.io/feed.xml][zverok with Ruby]]
 
 *** AK                                                                 :ak:
+
 **** [[https://www.leftvoice.org/feed][Left Voice]]
 **** [[https://thecharnelhouse.org/rss][The Charnel House]]
 **** [[http://insurgentnotes.com/feed][Insurgent Notes]]
