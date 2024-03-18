@@ -35,10 +35,6 @@
 **** [[https://www.kyberturvallisuuskeskus.fi/feed/rss/fi/400][TRAFICOM Vulnerabilities]]
 **** [[https://www.kyberturvallisuuskeskus.fi/feed/rss/fi/401][TRAFICOM Alerts]]
 
-*** Indieweb                                                     :indieweb:
-
-**** [[https://www.jvt.me/kind/articles/feed.xml][Jamie Tanna's Blog]]
-
 *** Emacs                                                           :emacs:
 
 **** [[https://planet.emacslife.com/atom.xml][Planet Emacslife]]
