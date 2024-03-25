@@ -35,12 +35,15 @@
 **** [[https://www.kyberturvallisuuskeskus.fi/feed/rss/fi/400][TRAFICOM Vulnerabilities]]
 **** [[https://www.kyberturvallisuuskeskus.fi/feed/rss/fi/401][TRAFICOM Alerts]]
 **** [[https://liw.fi][Lars Wirzenius]]
+**** [[https://henrikwarne.com/feed/][Henrik Warne]]
 
 *** Emacs                                                           :emacs:
 
 **** [[https://planet.emacslife.com/atom.xml][Planet Emacslife]]
 **** [[http://sachachua.com/blog/feed/][sacha chua :: living an awesome life]]
 **** [[https://oremacs.com/atom.xml][(or emacs]]
+**** [[http://yummymelon.com/devnull/feeds/all.atom.xml][Charles Choi's /dev/null]]
+
 
 *** Languages                                                   :languages:
 
