@@ -1,41 +1,54 @@
 * All                                                                :elfeed:
 
 ** Own                                                                 :own:
+
 **** [[https://manuel.is/posts/index.xml][manuel.is]]
+
 
 ** Videos                                                          :youtube:
 
 *** [[https://www.youtube.com/feeds/videos.xml?channel_id=UCijjo5gfAscWgNCKFHWm1EA][Mozilla Hacks]]                                                 :mozilla:
 *** [[https://www.youtube.com/feeds/videos.xml?channel_id=UCxkMDXQ5qzYOgXPRnOBrp1w][Mike Zamansky]]                                                   :emacs:
 
+
+** Attention                                                        :warnings:
+
+**** [[https://www.kyberturvallisuuskeskus.fi/feed/rss/fi/401][TRAFICOM Alerts]]
+**** [[https://www.kyberturvallisuuskeskus.fi/feed/rss/fi/400][TRAFICOM Vulnerabilities]]
+
+
 ** Blogs                                                             :blogs:
+
 
 *** Photography                                               :photography:
 
-**** [[https://jonasraskphotography.com/feed/][Jonas Rask | photography]]
-**** [[http://feeds.feedburner.com/GetUpAndShoot-SeanTuckerPhotography][Get Up and Shoot - Sean Tucker Photography]]
 
-*** Computer engineering                                      :engineering:
+*** Corporate                                                 :corporate:
 
 **** [[http://feeds.feedburner.com/github/ICyq][The GitHub Blog]]
 **** [[http://feeds.feedburner.com/gitlab/jeJn][Gitlab Blog]]
 **** [[https://increment.com/feed.xml][Increment Magazine]]
+**** [[https://dev.solita.fi/rss.xml][/dev/solita]]
+**** [[https://www.honeybadger.io/blog/feed.xml][Honeybadger Developer Blog]]
+**** [[https://githubengineering.com/atom.xml][Github Engineering]]
+
+
+*** Hoomans                                                   :hoomans:
+
 **** [[https://jvns.ca/atom.xml][Julia Evans]]
 **** [[http://wingolog.org/feed/atom][wingolog]]
 **** [[http://martinfowler.com/bliki/bliki.atom][Martin Fowler]]
 **** [[http://windytan.blogspot.com/feeds/posts/default][absorptions]]
-**** [[https://akomljen.com/rss/][Alen Komljen]]
 **** [[https://medium.com/feed/@rakyll/][Stories by Jaana Dogan on Medium]]
 **** [[http://feeds.feedburner.com/steveklabnik/words][Steve Klabnik]]
-**** [[https://dev.solita.fi/rss.xml][/dev/solita]]
-**** [[https://www.honeybadger.io/blog/feed.xml][Honeybadger Developer Blog]]
 **** [[https://karl-voit.at/feeds/lazyblorg-all.atom_1.0.links-and-teaser.xml][public voit]]
-**** [[https://githubengineering.com/atom.xml][Github Engineering]]
 **** [[https://www.fredrikholmqvist.com/posts/index.xml][Fredrik Holmqvist]]
-**** [[https://www.kyberturvallisuuskeskus.fi/feed/rss/fi/400][TRAFICOM Vulnerabilities]]
-**** [[https://www.kyberturvallisuuskeskus.fi/feed/rss/fi/401][TRAFICOM Alerts]]
 **** [[https://liw.fi][Lars Wirzenius]]
 **** [[https://henrikwarne.com/feed/][Henrik Warne]]
+
+**** [[http://tenderlovemaking.com/atom.xml][Tender Lovemaking]]
+**** [[https://zverok.github.io/feed.xml][zverok with Ruby]]
+
 
 *** Emacs                                                           :emacs:
 
@@ -49,8 +62,8 @@
 
 **** [[https://www.ruby-lang.org/en/feeds/news.rss][Ruby News]]
 **** [[https://blog.golang.org/feed.atom?format=xml][The Go Blog]]
-**** [[http://tenderlovemaking.com/atom.xml][Tender Lovemaking]]
-**** [[https://zverok.github.io/feed.xml][zverok with Ruby]]
+
+
 
 *** AK                                                                 :ak:
 
@@ -58,15 +71,14 @@
 **** [[https://thecharnelhouse.org/rss][The Charnel House]]
 **** [[http://insurgentnotes.com/feed][Insurgent Notes]]
 
+
 *** News                                                             :news:
 
 **** [[https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET][Yle Uutiset | Tuoreimmat uutiset]]
+
 
 *** LOLlero                                                           :lol:
 
 **** [[https://darkball.net/fingerpori/][Fingerpori RSS]]
 **** [[https://xkcd.com/atom.xml][xkcd]]
 
-*** Books                                                           :books:
-
-**** [[https://www.theguardian.com/books/books+tone/reviews/rss][The Guardian Book Review]]
