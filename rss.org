@@ -42,7 +42,7 @@
 **** [[https://medium.com/feed/@rakyll/][Stories by Jaana Dogan on Medium]]
 **** [[http://feeds.feedburner.com/steveklabnik/words][Steve Klabnik]]
 **** [[https://karl-voit.at/feeds/lazyblorg-all.atom_1.0.links-and-teaser.xml][public voit]]
-**** [[https://www.fredrikholmqvist.com/posts/index.xml][Fredrik Holmqvist]]
+**** [[https://www.fredrikholmqvist.com/index.xml][Fredrik Holmqvist]]
 **** [[https://liw.fi][Lars Wirzenius]]
 **** [[https://henrikwarne.com/feed/][Henrik Warne]]
 
@@ -54,7 +54,7 @@
 
 **** [[https://planet.emacslife.com/atom.xml][Planet Emacslife]]
 **** [[http://sachachua.com/blog/feed/][sacha chua :: living an awesome life]]
-**** [[https://oremacs.com/atom.xml][(or emacs]]
+**** [[https://oremacs.com/atom.xml][(or emacs irrelevant)]]
 **** [[http://yummymelon.com/devnull/feeds/all.atom.xml][Charles Choi's /dev/null]]
 
 
