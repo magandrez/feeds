@@ -45,10 +45,9 @@
 **** [[https://www.fredrikholmqvist.com/index.xml][Fredrik Holmqvist]]
 **** [[https://liw.fi][Lars Wirzenius]]
 **** [[https://henrikwarne.com/feed/][Henrik Warne]]
-
 **** [[http://tenderlovemaking.com/atom.xml][Tender Lovemaking]]
 **** [[https://zverok.github.io/feed.xml][zverok with Ruby]]
-
+**** [[https://confusedalex.dev/atom.xml][Confusedalex]]
 
 *** Emacs                                                           :emacs:
 
