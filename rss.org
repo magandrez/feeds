@@ -20,8 +20,11 @@
 ** Blogs                                                             :blogs:
 
 
-*** Photography                                               :photography:
+*** Art, design, photography, aesthetics, etc                 :photography:
 
+**** [[https://typesetinthefuture.com/rss][Typeset in the future]]
+**** [[https://thebeautyoftransport.com/feed/][The Beauty of Transport]]
+**** [[https://analog-antiquarian.net/feed/rss][The Analog Antiquarian]]
 
 *** Corporate                                                 :corporate:
 
@@ -31,7 +34,7 @@
 **** [[https://dev.solita.fi/rss.xml][/dev/solita]]
 **** [[https://www.honeybadger.io/blog/feed.xml][Honeybadger Developer Blog]]
 **** [[https://githubengineering.com/atom.xml][Github Engineering]]
-
+**** [[https://planet.igalia.com/rss20.xml][Planet Igalia]]
 
 *** Hoomans                                                   :hoomans:
 
@@ -49,8 +52,14 @@
 **** [[https://zverok.github.io/feed.xml][zverok with Ruby]]
 **** [[https://daniel.haxx.se/blog/feed/][Daniel://Stenberg://]]
 **** [[https://confusedalex.dev/atom.xml][Confusedalex]]
-
-
+**** [[https://leahneukirchen.org/trivium/index.atom][Trivium]]
+**** [[https://fabiensanglard.net/rss.xml][Fabien Sanglard]]
+**** [[https://flak.tedunangst.com/rss][Flak]]
+**** [[https://emersion.fr/blog/atom.xml][Simon Ser]]
+**** [[https://ciechanow.ski/atom.xml][Bartosz Ciechanowski]]
+**** [[https://lucumr.pocoo.org/feed.atom][Armin Ronacher]]
+**** [[https://jacobo.tarrio.org/rss/en.xml][Jacobo Tarrío]]
+**** [[https://danluu.com/atom.xml][Dan Luu]]
 
 
 *** Emacs                                                           :emacs:
@@ -84,4 +93,4 @@
 
 **** [[https://darkball.net/fingerpori/][Fingerpori RSS]]
 **** [[https://xkcd.com/atom.xml][xkcd]]
-
+**** [[https://warandpeas.com/rss][War and peas]]
