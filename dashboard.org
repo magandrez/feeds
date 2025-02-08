@@ -8,19 +8,19 @@
 
 * Bookmarks
 
- [u] Unread           ([[elfeed:+unread][440]]/[[elfeed:][3125]])
- [n] News             ([[elfeed:+unread +news][34]]/[[elfeed:+news][582]])
- [h] LOLlero          ([[elfeed:+unread +lol][19]]/[[elfeed:+lol][170]])
- [v] Videos           ([[elfeed:+unread +youtube][0]]/[[elfeed:+youtube][32]])
- [e] Emacs            ([[elfeed:+unread +emacs][130]]/[[elfeed:+emacs][666]])
- [p] Photography      ([[elfeed:+unread +photography][0]]/[[elfeed:+photography][47]])
- [l] Languages        ([[elfeed:+unread +languages][39]]/[[elfeed:+languages][98]])
- [a] Politics         ([[elfeed:+unread +ak][36]]/[[elfeed:+ak][453]])
- [c] Hoomans          ([[elfeed:+unread +hoomans][  0]]/[[elfeed:+hoomans][  0]])
- [r] Corporate        ([[elfeed:+unread +corporate][  0]]/[[elfeed:+corporate][  0]])
- [w] Warnings         ([[elfeed:+unread +warnings][  0]]/[[elfeed:+warnings][  0]])
- [o] Own              ([[elfeed:+unread +own][0]]/[[elfeed:+own][13]])
-
+ [u] Unread           ([[elfeed:+unread][  0]]/[[elfeed:][1883]])
+ [n] News             ([[elfeed:+unread +news][  0]]/[[elfeed:+news][216]])
+ [h] LOLlero          ([[elfeed:+unread +lol][  0]]/[[elfeed:+lol][ 48]])
+ [v] Videos           ([[elfeed:+unread +youtube][  0]]/[[elfeed:+youtube][30]])
+ [e] Emacs            ([[elfeed:+unread +emacs][  0]]/[[elfeed:+emacs][282]])
+ [p] Photography      ([[elfeed:+unread +photography][  0]]/[[elfeed:+photography][28]])
+ [l] Languages        ([[elfeed:+unread +languages][  0]]/[[elfeed:+languages][21]])
+ [a] Politics         ([[elfeed:+unread +ak][  0]]/[[elfeed:+ak][365]])
+ [c] Hoomans          ([[elfeed:+unread +hoomans][  0]]/[[elfeed:+hoomans][495]])
+ [r] Corporate        ([[elfeed:+unread +corporate][  0]]/[[elfeed:+corporate][140]])
+ [w] Warnings         ([[elfeed:+unread +warnings][  0]]/[[elfeed:+warnings][249]])
+ [o] Own              ([[elfeed:+unread +own][  0]]/[[elfeed:+own][14]])
+ [x] Starred          ([[elfeed:+star][  2]])
 
 * Configuration
   :PROPERTIES:
@@ -42,6 +42,7 @@
   #+KEYMAP: r | elfeed-dashboard-query "+unread +corporate"
   #+KEYMAP: w | elfeed-dashboard-query "+unread +warnings"
   #+KEYMAP: o | elfeed-dashboard-query "+unread +own"
+  #+KEYMAP: x | elfeed-dashboard-query "+star"
   #+KEYMAP: s | elfeed
   #+KEYMAP: g | elfeed-dashboard-update-links
   #+KEYMAP: U | elfeed-dashboard-update
