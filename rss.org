@@ -84,11 +84,6 @@
 **** [[http://insurgentnotes.com/feed][Insurgent Notes]]
 
 
-*** News                                                             :news:
-
-**** [[https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET][Yle Uutiset | Tuoreimmat uutiset]]
-
-
 *** LOLlero                                                           :lol:
 
 **** [[https://darkball.net/fingerpori/][Fingerpori RSS]]

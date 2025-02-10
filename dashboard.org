@@ -9,7 +9,6 @@
 * Bookmarks
 
  [u] Unread           ([[elfeed:+unread][  0]]/[[elfeed:][1883]])
- [n] News             ([[elfeed:+unread +news][  0]]/[[elfeed:+news][216]])
  [h] LOLlero          ([[elfeed:+unread +lol][  0]]/[[elfeed:+lol][ 48]])
  [v] Videos           ([[elfeed:+unread +youtube][  0]]/[[elfeed:+youtube][30]])
  [e] Emacs            ([[elfeed:+unread +emacs][  0]]/[[elfeed:+emacs][282]])
@@ -31,7 +30,6 @@
 
   #+STARTUP: showall showstars indent
   #+KEYMAP: u | elfeed-dashboard-query "+unread"
-  #+KEYMAP: n | elfeed-dashboard-query "+unread +news"
   #+KEYMAP: h | elfeed-dashboard-query "+unread +lol"
   #+KEYMAP: v | elfeed-dashboard-query "+unread +youtube"
   #+KEYMAP: e | elfeed-dashboard-query "+unread +emacs"
