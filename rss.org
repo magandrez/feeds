@@ -74,7 +74,7 @@
 
 **** [[https://www.ruby-lang.org/en/feeds/news.rss][Ruby News]]
 **** [[https://blog.golang.org/feed.atom?format=xml][The Go Blog]]
-
+**** [[https://nodejs.github.io/nodejs-news-feeder/feed.xml][Nodejs News]]
 
 
 *** AK                                                                 :ak:
