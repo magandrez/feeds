@@ -60,7 +60,7 @@
 **** [[https://lucumr.pocoo.org/feed.atom][Armin Ronacher]]
 **** [[https://jacobo.tarrio.org/rss/en.xml][Jacobo Tarrío]]
 **** [[https://danluu.com/atom.xml][Dan Luu]]
-
+**** [[https://www.coreycleary.me/feed.xml][Corey Cleary]]
 
 *** Emacs                                                           :emacs:
 
