@@ -61,6 +61,7 @@
 **** [[https://jacobo.tarrio.org/rss/en.xml][Jacobo Tarrío]]
 **** [[https://danluu.com/atom.xml][Dan Luu]]
 **** [[https://www.coreycleary.me/feed.xml][Corey Cleary]]
+**** [[https://www.henrikkarlsson.xyz/feed][Henrik Karlsson]]
 
 *** Emacs                                                           :emacs:
 
