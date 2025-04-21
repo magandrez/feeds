@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opml version="1.0">
+  <head>
+    <title>Elfeed-Org Export</title>
+  </head>
+  <body>
+      <outline title="Own">
+          <outline title="manuel.is" xmlUrl="https://manuel.is/posts/index.xml"/>
+      </outline>
+      <outline title="Videos">
+        <outline title="Mozilla Hacks" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCijjo5gfAscWgNCKFHWm1EA"/>
+        <outline title="Mike Zamansky" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCxkMDXQ5qzYOgXPRnOBrp1w"/>
+      </outline>
+      <outline title="Attention">
+          <outline title="TRAFICOM Alerts" xmlUrl="https://www.kyberturvallisuuskeskus.fi/feed/rss/fi/401"/>
+          <outline title="TRAFICOM Vulnerabilities" xmlUrl="https://www.kyberturvallisuuskeskus.fi/feed/rss/fi/400"/>
+      </outline>
+      <outline title="Blogs">
+        <outline title="Art, design, photography, aesthetics, etc">
+          <outline title="Typeset in the future" xmlUrl="https://typesetinthefuture.com/rss"/>
+          <outline title="The Beauty of Transport" xmlUrl="https://thebeautyoftransport.com/feed/"/>
+          <outline title="The Analog Antiquarian" xmlUrl="https://analog-antiquarian.net/feed/rss"/>
+        </outline>
+        <outline title="Corporate">
+          <outline title="The GitHub Blog" xmlUrl="http://feeds.feedburner.com/github/ICyq"/>
+          <outline title="Gitlab Blog" xmlUrl="http://feeds.feedburner.com/gitlab/jeJn"/>
+          <outline title="Increment Magazine" xmlUrl="https://increment.com/feed.xml"/>
+          <outline title="/dev/solita" xmlUrl="https://dev.solita.fi/rss.xml"/>
+          <outline title="Honeybadger Developer Blog" xmlUrl="https://www.honeybadger.io/blog/feed.xml"/>
+          <outline title="Github Engineering" xmlUrl="https://githubengineering.com/atom.xml"/>
+          <outline title="Planet Igalia" xmlUrl="https://planet.igalia.com/rss20.xml"/>
+        </outline>
+        <outline title="Hoomans">
+          <outline title="Julia Evans" xmlUrl="https://jvns.ca/atom.xml"/>
+          <outline title="wingolog" xmlUrl="http://wingolog.org/feed/atom"/>
+          <outline title="Martin Fowler" xmlUrl="http://martinfowler.com/bliki/bliki.atom"/>
+          <outline title="absorptions" xmlUrl="http://windytan.blogspot.com/feeds/posts/default"/>
+          <outline title="Stories by Jaana Dogan on Medium" xmlUrl="https://medium.com/feed/@rakyll/"/>
+          <outline title="Steve Klabnik" xmlUrl="http://feeds.feedburner.com/steveklabnik/words"/>
+          <outline title="public voit" xmlUrl="https://karl-voit.at/feeds/lazyblorg-all.atom_1.0.links-and-teaser.xml"/>
+          <outline title="Fredrik Holmqvist" xmlUrl="https://www.fredrikholmqvist.com/index.xml"/>
+          <outline title="Lars Wirzenius" xmlUrl="https://liw.fi"/>
+          <outline title="Henrik Warne" xmlUrl="https://henrikwarne.com/feed/"/>
+          <outline title="Tender Lovemaking" xmlUrl="http://tenderlovemaking.com/atom.xml"/>
+          <outline title="zverok with Ruby" xmlUrl="https://zverok.github.io/feed.xml"/>
+          <outline title="Daniel://Stenberg://" xmlUrl="https://daniel.haxx.se/blog/feed/"/>
+          <outline title="Confusedalex" xmlUrl="https://confusedalex.dev/atom.xml"/>
+          <outline title="Trivium" xmlUrl="https://leahneukirchen.org/trivium/index.atom"/>
+          <outline title="Fabien Sanglard" xmlUrl="https://fabiensanglard.net/rss.xml"/>
+          <outline title="Flak" xmlUrl="https://flak.tedunangst.com/rss"/>
+          <outline title="Simon Ser" xmlUrl="https://emersion.fr/blog/atom.xml"/>
+          <outline title="Bartosz Ciechanowski" xmlUrl="https://ciechanow.ski/atom.xml"/>
+          <outline title="Armin Ronacher" xmlUrl="https://lucumr.pocoo.org/feed.atom"/>
+          <outline title="Jacobo Tarrío" xmlUrl="https://jacobo.tarrio.org/rss/en.xml"/>
+          <outline title="Dan Luu" xmlUrl="https://danluu.com/atom.xml"/>
+          <outline title="Corey Cleary" xmlUrl="https://www.coreycleary.me/feed.xml"/>
+          <outline title="Henrik Karlsson" xmlUrl="https://www.henrikkarlsson.xyz/feed"/>
+        </outline>
+        <outline title="Emacs">
+          <outline title="Planet Emacslife" xmlUrl="https://planet.emacslife.com/atom.xml"/>
+          <outline title="sacha chua :: living an awesome life" xmlUrl="http://sachachua.com/blog/feed/"/>
+          <outline title="(or emacs irrelevant)" xmlUrl="https://oremacs.com/atom.xml"/>
+          <outline title="Charles Choi&apos;s /dev/null" xmlUrl="http://yummymelon.com/devnull/feeds/all.atom.xml"/>
+        </outline>
+        <outline title="Languages">
+          <outline title="Ruby News" xmlUrl="https://www.ruby-lang.org/en/feeds/news.rss"/>
+          <outline title="The Go Blog" xmlUrl="https://blog.golang.org/feed.atom?format=xml"/>
+          <outline title="Nodejs News" xmlUrl="https://nodejs.github.io/nodejs-news-feeder/feed.xml"/>
+        </outline>
+        <outline title="AK">
+          <outline title="Left Voice" xmlUrl="https://www.leftvoice.org/feed"/>
+          <outline title="The Charnel House" xmlUrl="https://thecharnelhouse.org/rss"/>
+          <outline title="Insurgent Notes" xmlUrl="http://insurgentnotes.com/feed"/>
+          <outline title="New Socialist" xmlUrl="http://www.newsocialist.org.uk/rss"/>
+        </outline>
+        <outline title="LOLlero">
+          <outline title="Fingerpori RSS" xmlUrl="https://darkball.net/fingerpori/"/>
+          <outline title="xkcd" xmlUrl="https://xkcd.com/atom.xml"/>
+          <outline title="War and peas" xmlUrl="https://warandpeas.com/rss"/>
+        </outline>
+      </outline>
+  </body>
+</opml>
